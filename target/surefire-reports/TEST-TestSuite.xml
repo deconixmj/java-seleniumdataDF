@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="9.375" tests="6" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-L1S65S6"/>
+    <property name="ALLURE_HOME" value="C:\Users\DELL\scoop\apps\allure\current"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:9191/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="OneDriveCommercial" value="C:\Users\DELL\OneDrive - HCL Technologies Ltd"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="DESKTOP-L1S65S6"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11"/>
+    <property name="JOB_NAME" value="ddt2"/>
+    <property name="COMPUTERNAME" value="DESKTOP-L1S65S6"/>
+    <property name="ANDROID_HOME" value="D:\android_sdk\Android\Sdk"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2018-09-25"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="ChocolateyLastPathUpdate" value="132205626985365078"/>
+    <property name="user.name" value="DELL"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="=E:" value="E:\jenkins"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\DELL\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:9191/job/ddt2/10/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-ddt2-10"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3 C:\Users\DELL\.jenkins\war\WEB-INF\lib\remoting-4.5.jar C:\Users\DELL\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\DELL\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 59702"/>
+    <property name="HUDSON_URL" value="http://localhost:9191/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="f838e35af459c153"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11/bin;C:\Program Files\Java\Scripts;C:\python37\;C:\python37\Scripts;C:\python37\python.exe;C:\Program Files\Java\jdk1.8.0_281\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\WINDOWS\System32\OpenSSH\;E:\chromedriver_win32\chromedriver;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Users\DELL\scoop\apps\allure\2.13.0\bin\allure.bat;C:\Go\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;D:\Py_projects\django02sep\venv\Scripts\;D:\Py_projects\django02sep\venv\Lib\site-packages\django\bin\django-admin.py;D:\Py_projects\sqlite-tools-win32-x86-3310100\sqlite-tools-win32-x86-3310100;D:\android_sdk\Android\Sdk\platform-tools;D:\android_sdk\Android\Sdk\build-tools\27.0.3;C:\Program Files\Microsoft VS Code\bin;D:\android_sdk\Android\Sdk\tools\bin;C:\Program Files\Oracle\VirtualBox;D:\Py_projects\robotfw;C:\Program Files\MongoDB\Server\4.2\bin;E:\Flutterr_dart\flutter\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\python37\;C:\python37\python;C:\python37\Scripts\;D:\Py_projects\robotfw\venv\Scripts;D:\Py_projects\robotfw;C:\Users\DELL\scoop\shims;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\DELL\AppData\Local\atom\bin;C:\Users\DELL\scoop\apps\allure\2.13.0\bin\allure.bat;C:\Users\DELL\go\bin;C:\Users\DELL\AppData\Roaming\npm;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\"/>
+    <property name="java.io.tmpdir" value="C:\Users\DELL\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\DELL\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="GOPATH" value="E:\go_works"/>
+    <property name="BUILD_URL" value="http://localhost:9191/job/ddt2/10/"/>
+    <property name="M2_HOME" value="E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3"/>
+    <property name="WORKON_HOME" value="E:\pywork"/>
+    <property name="=C:" value="C:\"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#10"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="f838e35af459c153"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\DELL\.jenkins\workspace\ddt2@tmp"/>
+    <property name="MAVEN_HOME" value="E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\DELL\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="HOMEPATH" value="\Users\DELL"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="10"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\DELL\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3/bin;C:\Program Files\Java\jdk-11/bin;C:\Program Files\Java\jdk-11/bin;C:\Program Files\Java\Scripts;C:\python37\;C:\python37\Scripts;C:\python37\python.exe;C:\Program Files\Java\jdk1.8.0_281\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Brackets\command;C:\WINDOWS\System32\OpenSSH\;E:\chromedriver_win32\chromedriver;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Users\DELL\scoop\apps\allure\2.13.0\bin\allure.bat;C:\Go\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;D:\Py_projects\django02sep\venv\Scripts\;D:\Py_projects\django02sep\venv\Lib\site-packages\django\bin\django-admin.py;D:\Py_projects\sqlite-tools-win32-x86-3310100\sqlite-tools-win32-x86-3310100;D:\android_sdk\Android\Sdk\platform-tools;D:\android_sdk\Android\Sdk\build-tools\27.0.3;C:\Program Files\Microsoft VS Code\bin;D:\android_sdk\Android\Sdk\tools\bin;C:\Program Files\Oracle\VirtualBox;D:\Py_projects\robotfw;C:\Program Files\MongoDB\Server\4.2\bin;E:\Flutterr_dart\flutter\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\python37\;C:\python37\python;C:\python37\Scripts\;D:\Py_projects\robotfw\venv\Scripts;D:\Py_projects\robotfw;C:\Users\DELL\scoop\shims;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\DELL\AppData\Local\atom\bin;C:\Users\DELL\scoop\apps\allure\2.13.0\bin\allure.bat;C:\Users\DELL\go\bin;C:\Users\DELL\AppData\Roaming\npm;C:\Users\DELL\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.w2a"/>
+    <property name="POM_ARTIFACTID" value="DataDF"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:9191/job/ddt2/"/>
+    <property name="browser" value="firefox"/>
+    <property name="SynaProgDir" value="Synaptics\SynTP"/>
+    <property name="OneDrive" value="C:\Users\DELL\OneDrive - HCL Technologies Ltd"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:9191/job/ddt2/10/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="JENKINS_HOME" value="C:\Users\DELL\.jenkins"/>
+    <property name="TEMP" value="C:\Users\DELL\AppData\Local\Temp"/>
+    <property name="BUILD_ID" value="10"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\DELL\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3/bin"/>
+    <property name="ATOM_HOME" value="E:\Atom\.atom"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-L1S65S6"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:9191/job/ddt2/10/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\DELL"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:9191/job/ddt2/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\DELL"/>
+    <property name="USERNAME" value="DELL"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="E:\Java_projects\DataDF"/>
+    <property name="maven.conf" value="E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\DELL\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11+28"/>
+    <property name="java.class.path" value="C:\Users\DELL\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Users\DELL\.jenkins\workspace\ddt2"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:9191/job/ddt2/10/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="file.separator" value="\"/>
+    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+    <property name="java.runtime.version" value="11+28"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11/bin"/>
+    <property name="=ExitCode" value="00000082"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="E:\Java_projects\apache-maven-3.6.3-bin\apache-maven-3.6.3"/>
+    <property name="JOB_BASE_NAME" value="ddt2"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="DataDF"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="LoginAsBankManager" classname="com.w2a.testcases.LoginTest" time="3.278"/>
+  <testcase name="addCustomerTest" classname="com.w2a.testcases.AddCustomerTest" time="3.408"/>
+  <testcase name="addCustomerTest" classname="com.w2a.testcases.AddCustomerTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="addCustomerTest" classname="com.w2a.testcases.AddCustomerTest" time="3.379"/>
+  <testcase name="addCustomerTest" classname="com.w2a.testcases.AddCustomerTest" time="3.398"/>
+  <testcase name="openAccountTest" classname="com.w2a.testcases.OpenAccountTest" time="2.689"/>
+</testsuite>

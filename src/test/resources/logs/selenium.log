@@ -1,0 +1,6 @@
+02:25:02,653 DEBUG devpinoyLogger:61 - config file loaded
+02:25:02,660 DEBUG devpinoyLogger:73 - Locator object loaded
+02:25:05,213 DEBUG devpinoyLogger:86 - chrome launched
+02:25:10,717 DEBUG devpinoyLogger:17 - Inside Login test
+02:25:10,762 DEBUG devpinoyLogger:20 - Login test successfully executed
+02:25:16,641 DEBUG devpinoyLogger:118 - test completed
